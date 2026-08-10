@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Node
+node_modules/
+dist/
+
+# Spring Boot
+target/
+
+# Environment files
+.env
